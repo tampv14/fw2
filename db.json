@@ -1,0 +1,89 @@
+{
+  "books": [],
+  "users": [],
+  "products": [
+    {
+      "id": 2,
+      "name": "Gucci duffle bag",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744176633/react/vcz5bqlbwpqhrfdhuuww.png",
+      "price": 1160,
+      "category": "Computers",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "RGB liquid CPU Cooler",
+      "images": "https://tse4.mm.bing.net/th?id=OIP.bnRBmSdpGn0yQ5-L9uVRAwHaDm&pid=Api&P=0&h=180",
+      "price": "170111",
+      "category": "Computers"
+    },
+    {
+      "id": 4,
+      "name": "Small BookShelf",
+      "images": "https://tse1.mm.bing.net/th?id=OIP.pUpUf6qs12Qrz9XDNsZDgAHaHa&pid=Api&P=0&h=180",
+      "price": "13131313",
+      "category": "Phones",
+      "originalPrice": "250000"
+    },
+    {
+      "name": "cccc",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744176663/react/s2vym6wxwdf0qqef4otb.png",
+      "price": "3000000",
+      "category": "Camera",
+      "id": 5
+    },
+    {
+      "name": "Tam pahmầ",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744176674/react/liso76hidrrfmcs7fps0.png",
+      "price": "1000000",
+      "category": "HeadPhones",
+      "id": 6
+    },
+    {
+      "name": "Tam pahmầ",
+      "images": "https://tse3.mm.bing.net/th?id=OIP.7n-iFatELSqB1WA2_WKzEAHaKY&pid=Api&P=0&h=180",
+      "price": "1000000",
+      "category": "Phones",
+      "id": 7
+    },
+    {
+      "name": "The north coat",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744176527/react/erslwuxus1af66wofril.png",
+      "price": "360111",
+      "category": "SmartWacth",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "name": "Phones",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744173224/react/peix51tn2fn6ixsopgid.png",
+      "id": 3
+    },
+    {
+      "name": "Computers",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744173240/react/z92fbljsyjr6unzwsuhw.png",
+      "id": 4
+    },
+    {
+      "name": "SmartWatch",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744173256/react/ujx40upiixepwdtg9trx.png",
+      "id": 5
+    },
+    {
+      "name": "Camera",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744173270/react/phtnkmw2radeu1ynazpc.png",
+      "id": 6
+    },
+    {
+      "name": "HeadPhones",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744173286/react/pivgpl7cesdvu1luuzfy.png",
+      "id": 7
+    },
+    {
+      "name": "Gaming",
+      "images": "http://res.cloudinary.com/dkpfaleot/image/upload/v1744173301/react/gifuuavjp1u50oyahkza.png",
+      "id": 8
+    }
+  ]
+}
