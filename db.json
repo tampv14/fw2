@@ -1,6 +1,26 @@
 {
   "books": [],
-  "users": [],
+  "users": [
+    {
+      "email": "tamtvph50549@gmail.com",
+      "password": "$2a$10$v3Aymidtmb9YEryW3ocChuiaqn8MrqE1WSigxKGVc3K8/OAJYDSw.",
+      "name": "Tam pahm",
+      "comfirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "tamtvph505419@gmail.com",
+      "password": "$2a$10$.y68OL8vSMncpmiMpIQ0PehwjL3DZ3MwbTcQyosfK/TvUBnr7tsPC",
+      "name": "Tam pahm",
+      "id": 2
+    },
+    {
+      "email": "tamtvph5054192@gmail.com",
+      "password": "$2a$10$fgH6hEk2Q0/bp0eE8K2CK.dg2/XBZH3W3ar4WycSlb2YQyYyKRTmO",
+      "name": "Tam pahm",
+      "id": 3
+    }
+  ],
   "products": [
     {
       "id": 2,

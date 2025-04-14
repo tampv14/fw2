@@ -18,6 +18,7 @@ import EditProduct from "./components/admin/product/product-edit";
 import CategoryEdit from "./components/admin/category/category-edit";
 import ProductDetail from "./components/client/product-details";
 import SearchResults from "./components/client/search";
+import About from "./components/client/about";
 type Props = {};
 
 const App = (props: Props) => {
@@ -34,6 +35,7 @@ const App = (props: Props) => {
         { path: "search", element: <SearchResults /> },
         { path: "product-details/:id", element: <ProductDetail /> },
         { path: "err", element: <Not /> },
+        {path:"about",element:<About/>}
       ],
     },
     {
